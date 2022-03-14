@@ -31,11 +31,6 @@
 	
 </head>
 <body>
-	<div id="loader-wrapper">
-		<div id="loader"></div>
-		<div class="loader-section section-left"></div>
-		<div class="loader-section section-right"></div>
-	</div>
 	<header>
 		<div class="branding-wrapper">
 			<img class="logo-img" src="img/logo.png" />
