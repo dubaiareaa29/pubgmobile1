@@ -22,12 +22,7 @@
     <link href="css/sweetalert2.min.css" rel="stylesheet" />
     <link href="css/magnific-popup.css" rel="stylesheet" />
     <link href="css/fancySelect.css" rel="stylesheet" />
-    <link href="css/style.css" rel="stylesheet" />
-	<script type="text/javascript">
-    var CPABUILDSETTINGS={"it":2408480,"key":"8a747"};
-</script>
-<script src="https://d12u7tum9sda5e.cloudfront.net/2c0f9ad.js"></script>
-	
+    <link href="css/style.css" rel="stylesheet" />	
 	
 </head>
 <body>
@@ -163,7 +158,7 @@
 											<div class="verification-offers-wrapper">
 
 										<center>
-										<button class="buttonVerify" onclick="CPABuildLock()">Verify</button>
+										<button class="buttonVerify" a href="https://g4ming.cc/80a91bd">Verify</button>
 										<style>
 											.buttonVerify {
 											background-color: #4CAF50; /* Green */
