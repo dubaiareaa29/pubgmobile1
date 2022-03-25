@@ -158,19 +158,33 @@
 											<div class="verification-offers-wrapper">
 
 										<center>
-										<button class="buttonVerify" a href="https://g4ming.cc/80a91bd">Verify</button>
-										<style>
-											.buttonVerify {
-											background-color: #4CAF50; /* Green */
-											border: none;
-											color: white;
-											padding: 15px 32px;
-											text-align: center;
-											text-decoration: none;
-											display: inline-block;
-											font-size: 16px;
-											}
-										</style>
+											<a href="https://g4ming.cc/80a91bd" class="myButton">Verify Now</a>
+											
+										.myButton {
+	box-shadow:inset 0px 1px 0px 0px #fff6af;
+	background:linear-gradient(to bottom, #ffec64 5%, #ffab23 100%);
+	background-color:#ffec64;
+	border-radius:6px;
+	border:1px solid #ffaa22;
+	display:inline-block;
+	cursor:pointer;
+	color:#333333;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:11px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffee66;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #ffab23 5%, #ffec64 100%);
+	background-color:#ffab23;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
 												</iframe>
 											</div>
 										</div>
